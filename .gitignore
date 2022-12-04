@@ -1,0 +1,5 @@
+inputs
+.gradle
+.idea
+build
+session.txt
