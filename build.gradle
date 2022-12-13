@@ -15,4 +15,5 @@ repositories {
 
 dependencies {
     implementation 'com.google.jimfs:jimfs:1.2'
+    implementation 'org.openjdk.nashorn:nashorn-core:15.4'
 }
